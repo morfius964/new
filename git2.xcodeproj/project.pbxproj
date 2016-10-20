@@ -14,6 +14,7 @@
 		04F7BE171DB9644700D35088 /* git2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 04F7BE151DB9644700D35088 /* git2.xcdatamodeld */; };
 		04F7BE191DB9644700D35088 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04F7BE181DB9644700D35088 /* Assets.xcassets */; };
 		04F7BE1C1DB9644700D35088 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04F7BE1A1DB9644700D35088 /* LaunchScreen.storyboard */; };
+		04F7BE251DB9660300D35088 /* newViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F7BE241DB9660300D35088 /* newViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		04F7BE181DB9644700D35088 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04F7BE1B1DB9644700D35088 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04F7BE1D1DB9644700D35088 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04F7BE231DB9660300D35088 /* newViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = newViewController.h; sourceTree = "<group>"; };
+		04F7BE241DB9660300D35088 /* newViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = newViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,8 @@
 				04F7BE0D1DB9644700D35088 /* AppDelegate.m */,
 				04F7BE0F1DB9644700D35088 /* ViewController.h */,
 				04F7BE101DB9644700D35088 /* ViewController.m */,
+				04F7BE231DB9660300D35088 /* newViewController.h */,
+				04F7BE241DB9660300D35088 /* newViewController.m */,
 				04F7BE121DB9644700D35088 /* Main.storyboard */,
 				04F7BE181DB9644700D35088 /* Assets.xcassets */,
 				04F7BE1A1DB9644700D35088 /* LaunchScreen.storyboard */,
@@ -155,6 +160,7 @@
 			files = (
 				04F7BE111DB9644700D35088 /* ViewController.m in Sources */,
 				04F7BE0E1DB9644700D35088 /* AppDelegate.m in Sources */,
+				04F7BE251DB9660300D35088 /* newViewController.m in Sources */,
 				04F7BE0B1DB9644700D35088 /* main.m in Sources */,
 				04F7BE171DB9644700D35088 /* git2.xcdatamodeld in Sources */,
 			);
